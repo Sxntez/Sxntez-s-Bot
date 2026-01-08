@@ -7011,4 +7011,5 @@ migrate_trading()
 migrate_teams()
 migrate_quests()
 
-run_bot(TOKEN)
+run_bot()
+
